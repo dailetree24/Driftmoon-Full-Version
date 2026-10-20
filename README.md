@@ -248,4 +248,4 @@ This repository serves as the official landing page for Driftmoon. The software 
 **Get the most recent version of Driftmoon today!**
 
 ---
-**Last updated:** 2026-10-20 18:59:31 UTC
+**Last updated:** 2026-10-20 22:13:40 UTC
